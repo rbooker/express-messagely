@@ -7,7 +7,7 @@ const { DB_URI } = require("./config");
 const client = new Client({
     host: 'localhost',
     user: 'ryanb',
-    password: 'yamahacs5',
+    password: '********',
     database: DB_URI
   });
 
